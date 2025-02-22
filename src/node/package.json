@@ -54,7 +54,7 @@
     "eslint-plugin-more": "1.0.5",
     "lodash": "4.17.21",
     "long": "5.2.3",
-    "mocha": "10.8.2",
+    "mocha": "11.1.0",
     "prettier": "3.3.3",
     "rimraf": "5.0.5",
     "sinon": "^19.0.2",
